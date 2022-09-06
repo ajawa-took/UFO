@@ -10,11 +10,12 @@ The purpose of this project is to provide a simple, visually appealing, user-fri
 
 ## Results
 
+![unfiltered](/resscrrenshots/unfiltered.png)
 
 
+## Summary - Improvements
 
-## Summary
-### (Improvements)
+### Search Improvements
 
 The current implementation's major drawback is the inflexible matching of the search criteria to the data. Here are some ways to make our website more user-friendly.
 
@@ -30,4 +31,10 @@ The current implementation's major drawback is the inflexible matching of the se
 
 4. More ambitiously, we could extract day, month, year, and day of the week from the date, and add searches for those, to answer questions like, "Are there more UFO sightings on weekends?"
 
+### Bugs
 
+Reloading the page, as opposed to reopening it in a new tab or window, does not clear search critetia properly. Old seach criteria are:
+ - diplayed in the input fields of the form;
+ - not applied to the table displayed;
+ - not updated when the same criterion is re-entered.
+Entering a different criterion, including nothing, resets the search properly.
