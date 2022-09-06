@@ -1,7 +1,7 @@
 # UFO
 
 <p align="center">
-**Go see our awesome [webpage](https://ajawa-took.github.io/UFO/) !!**
+**Go see our awesome** [webpage](https://ajawa-took.github.io/UFO/) **!!**
 </p>
 
 ## Overview
