@@ -1,7 +1,7 @@
 # UFO
 
 <p align="center">
-**Go see our awesome** [webpage](https://ajawa-took.github.io/UFO/) **!!**
+<b>Go see our awesome <a href = https://ajawa-took.github.io/UFO/>webpage</a> !!</b>
 </p>
 
 ## Overview
@@ -10,7 +10,9 @@ The purpose of this project is to provide a simple, visually appealing, user-fri
 
 ## Results
 
-![unfiltered](/resscrrenshots/unfiltered.png)
+![unfiltered](/screenshots/unfiltered.png)
+
+[unfiltered](/screenshots/unfiltered.png)
 
 
 ## Summary - Improvements
